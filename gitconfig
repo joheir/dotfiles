@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = johannaeir@simnet.is
+	name = Johanna Bjornsdottir
